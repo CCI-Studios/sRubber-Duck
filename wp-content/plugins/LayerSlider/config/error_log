@@ -1,0 +1,7 @@
+[07-Jun-2016 20:18:09 America/Denver] PHP Fatal error:  Call to undefined function plugins_url() in /home/demomarketinghel/public_html/vip-011/wp-content/plugins/LayerSlider/config/plugin.defaults.php on line 7
+[16-Jun-2016 06:43:54 America/Denver] PHP Fatal error:  Call to undefined function __() in /home/demomarketinghel/public_html/vip-011/wp-content/plugins/LayerSlider/config/defaults.php on line 14
+[01-Jul-2016 09:52:16 America/Denver] PHP Fatal error:  Call to undefined function plugins_url() in /home/demomarketinghel/public_html/vip-011/wp-content/plugins/LayerSlider/config/plugin.defaults.php on line 7
+[03-Jul-2016 05:58:41 America/Denver] PHP Fatal error:  Call to undefined function __() in /home/demomarketinghel/public_html/vip-011/wp-content/plugins/LayerSlider/config/defaults.php on line 14
+[03-Oct-2016 20:44:29 America/Denver] PHP Fatal error:  Call to undefined function plugins_url() in /home/demomarketinghel/public_html/vip-011/wp-content/plugins/LayerSlider/config/plugin.defaults.php on line 7
+[12-May-2017 07:57:25 America/Chicago] PHP Fatal error:  Call to undefined function __() in /home/srubberduck/public_html/wp-content/plugins/LayerSlider/config/defaults.php on line 14
+[12-May-2017 07:57:43 America/Chicago] PHP Fatal error:  Call to undefined function plugins_url() in /home/srubberduck/public_html/wp-content/plugins/LayerSlider/config/plugin.defaults.php on line 7
